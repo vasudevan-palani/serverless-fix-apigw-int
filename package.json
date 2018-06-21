@@ -1,0 +1,21 @@
+{
+  "name": "serverless-fix-apigw-int",
+  "version": "1.0.0",
+  "description": "Fix to remove header mapping in integration request with Authorization header validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "gateway",
+    "Integration",
+    "request"
+  ],
+  "author": "Vasudevan Palani",
+  "license": "ISC",
+  "dependencies": {
+    "class.extend": "^0.9.2",
+    "lodash": "^4.17.10"
+  }
+}
